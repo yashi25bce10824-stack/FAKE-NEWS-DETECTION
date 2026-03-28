@@ -77,4 +77,4 @@ Output:
 This project was created as part of the BYOP submission.
 
 ## 📄 Project Report
-The detailed project report is available in this repository as `Project Report.docx`.
+The detailed project report is available in this repository as `Project_Report.docx`.

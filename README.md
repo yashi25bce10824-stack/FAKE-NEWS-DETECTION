@@ -8,7 +8,7 @@ The system takes news text as input and predicts whether it is REAL 🟢 or FAKE
 
 
 ## 🎯 Objective
-The objective of this project is to build a simple and effective model that can identify fake news using Natural Language Processing (NLP).
+The objective of this project is to build a simple and effective model that can identify fake news using Natural Language Processing (NLP).It implements a machine learning model to detect whether a news article is REAL or FAKE .
 
 
 ## 🛠️ Technologies Used
@@ -65,6 +65,8 @@ Input:
 
 Output:
 🔴 This news is likely FAKE
+
+
 
 
 ## 🚀 Future Improvements
